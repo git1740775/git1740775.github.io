@@ -12,6 +12,8 @@ function Portal (sites) {
     <p>🔔 [美吗]    [没码]    Mei.ma        </p>
     <br>
     <p>🔔 如果您发现了链接有错误，请联系QQ 1740775</p>
+    <br>
+    <p>😋  售卖中 <a href='https://9nn.cn'target="_blank">9nn.cn  </p>
     <br>`
   }
 
